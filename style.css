@@ -24,3 +24,10 @@
     color: rgb(198, 192, 11);
     margin-left: 20px;
 }
+
+.section-heading{
+    color: rgb(84, 84, 255);
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 50px;
+}
