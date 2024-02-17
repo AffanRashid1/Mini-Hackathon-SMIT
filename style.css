@@ -1,7 +1,10 @@
 .hero{
     background: url("./assets/hero.jpg");
     height: 80vh;
-    background-position: cover;
+    /* background-position: cover; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    
 }
 
 .card{
